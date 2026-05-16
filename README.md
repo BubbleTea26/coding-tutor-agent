@@ -1,6 +1,6 @@
 # Coding Tutor Agent
 
-A voice-enabled GCSC tutor powered by Claude.
+A voice-enabled Coding tutor powered by Claude.
 
 ## What it does
 
